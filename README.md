@@ -2,7 +2,7 @@
 
 I'm `dyzmj`, working for a IoT  technology company.
 
-<img alt="Coding gif" src="./assets/Developer.gif" width="45" /> **这周我把时间都花在:**
+<img alt="Coding gif" src="https://img.dyzmj.top/img/Developer.gif" width="45" /> **这周我把时间都花在:**
 
 
 <!--START_SECTION:waka-->
