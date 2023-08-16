@@ -43,7 +43,7 @@ HTML         7 mins          ░░░░░░░░░░░░░░░░░
 ![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=Vue.js&logoColor=4FC08D)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guqing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzmj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### 📫 Reach me
 [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/dyzmj) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white&link=)](https://t.me/dyzmj2233) [![WeiBo Badge](https://img.shields.io/badge/-微博-red?style=flat&logo=sina-weibo&logoColor=white&link=)](https://weibo.com/3973970923) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guqing3478520@gmail.com)](mailto:dyzmj2233@gmail.com)
 
