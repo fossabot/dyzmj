@@ -2,9 +2,16 @@
 
 I'm `dyzmj`.
 
-- 🔭 I’m currently working on a iot technology company.
-- 🌱 I’m currently learning rust.
-- ✨ I'd like to share something about iot.
+- 🔭 I’m currently working on a  iot technology company
+
+
+- 🌱 I’m currently learning Rust
+
+
+- ❓ Ask me about anything related to IoT stack and related technologies
+
+
+- ⚡ Fun fact: I use tabs over spaces
 
 <img alt="Coding gif" src="https://img.dyzmj.top/img/Developer.gif" width="45" /> **这周我把时间都花在:**
 
