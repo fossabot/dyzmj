@@ -19,15 +19,15 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-Total Time: 37 hrs 19 mins
+Total Time: 39 hrs 23 mins
 
-Other          23 hrs 50 mins  ████████████████░░░░░░░░░   63.86 %
-Vue.js         8 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
-JavaScript     3 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-JSON           34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Java           13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Other          23 hrs 20 mins  ██████████████▓░░░░░░░░░░   59.26 %
+Vue.js         9 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+JavaScript     5 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+JSON           31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Markdown       14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
