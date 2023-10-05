@@ -19,12 +19,11 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2023 - To: 03 October 2023
+From: 27 September 2023 - To: 04 October 2023
 
-Total Time: 7 hrs 43 mins
+Total Time: 0 secs
 
-Other   7 hrs 5 mins    ███████████████████████░░   91.81 %
-Java    37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
