@@ -19,15 +19,15 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2023 - To: 12 October 2023
+From: 06 October 2023 - To: 13 October 2023
 
-Total Time: 34 hrs 18 mins
+Total Time: 39 hrs 3 mins
 
-Other             33 hrs 10 mins  ████████████████████████▒   96.67 %
-Rust              49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Java              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Markdown          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Java Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other             36 hrs 47 mins  ███████████████████████▓░   94.18 %
+Rust              49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Java              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+YAML              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+XML               14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
