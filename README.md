@@ -41,6 +41,7 @@ XML               14 mins         ▒░░░░░░░░░░░░░░�
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=Vue.js&logoColor=4FC08D)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDyzmj%2Fdyzmj.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDyzmj%2Fdyzmj?ref=badge_shield)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzmj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -48,3 +49,6 @@ XML               14 mins         ▒░░░░░░░░░░░░░░�
 [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/dyzmj) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white&link=)](https://t.me/dyzmj2233) [![WeiBo Badge](https://img.shields.io/badge/-微博-red?style=flat&logo=sina-weibo&logoColor=white&link=)](https://weibo.com/3973970923) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guqing3478520@gmail.com)](mailto:dyzmj2233@gmail.com)
 
 ![](https://hit.yhype.me/github/profile?user_id=17159188)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDyzmj%2Fdyzmj.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDyzmj%2Fdyzmj?ref=badge_large)
